@@ -11,7 +11,6 @@ Este proyecto en Java es una aplicación sencilla y eficiente para convertir mon
 - **Tasas de cambio en tiempo real**: Obtiene las últimas tasas de cambio de una API en línea.
 - **Soporte para múltiples monedas**: Convierte entre una amplia gama de monedas internacionales.
 - **Interfaz fácil de usar**: Interfaz intuitiva basada en línea de comandos.
-- **Manejo de errores**: Gestiona entradas inválidas y fallos en la API de manera eficiente.
 
 ---
 
@@ -23,26 +22,6 @@ Este proyecto en Java es una aplicación sencilla y eficiente para convertir mon
 
 ---
 
-## Instalación
-
-1. **Clonar el repositorio**
-   ```bash
-   git clone https://github.com/tu-usuario/java-currency-converter.git
-   ```
-2. **Ir al directorio del proyecto**
-   ```bash
-   cd java-currency-converter
-   ```
-3. **Compilar el proyecto**
-   ```bash
-   javac -d bin src/*.java
-   ```
-4. **Ejecutar la aplicación**
-   ```bash
-   java -cp bin Main
-   ```
-
----
 
 ## Uso
 
